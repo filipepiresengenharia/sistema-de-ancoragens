@@ -20,3 +20,6 @@ Quantidades e cargas variáveis, pontos por pavimento/localização, etiqueta in
 
 ## Limitações REV 00
 A publicação pronta não comprova funcionamento. Sem dimensionamento completo validado, sem sumário/paginação final, anexos PDF relacionados mas não incorporados, sem geração de etiqueta física, sem histórico completo, cadastro institucional pendente. Usar somente dados fictícios em testes iniciais. O armazenamento é local no navegador; exportar JSON para backup.
+
+## Atualização — REV 01 (27/11/2026)
+Conexão GitHub/Vercel confirmada no projeto original. Quatro defeitos corrigidos: alvo zero específico, tensão negativa, geometria de rosca inválida e uso de fórmula UNC em outros tipos. Testes isolados executados em cópias das funções centrais: REV 00 12/16 e REV 01 16/16. Script de regressão que extrai funções do HTML registrado em tests/core.test.cjs; execução integral desse script no checkout ainda pendente. Publicação automática comprovada (deployment dpl_ExErorHcNNV5ebvWqLN8N1BXGYH1, commit aeb7b20c2891ea4799d326b84d2ba4db5ec706fc, HTTP 200 e HTML idêntico). Etapa 18 parcial. Próximos: testes reais no navegador, persistência/JSON, estabilidade das etiquetas, biblioteca e modelos de documento, validação de engenharia. Repositório público; não registrar dados pessoais/clientes. Não liberar para uso.
