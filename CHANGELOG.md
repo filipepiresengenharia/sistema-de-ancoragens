@@ -14,3 +14,8 @@
 - Referência efetivamente consultada: PEP Laudos Cremalheira REV 04Q (HTML original), em especial capa, estilos documentais e algoritmo de paginação lPaginate.
 - Novo gerador: capa, sumário com páginas, cabeçalho, rodapé, tabelas, revisão, capítulos, fórmulas nominais, fotos por etiqueta e anexos. Editor textual ampliado.
 - Paginação implementada, mas impressão e casos de tabelas/fotos extensas ainda não validados em navegador. Sem alteração do motor de cálculo; aprovação técnica continua bloqueada.
+
+## REV 03 — 27/11/2026
+- Referência: código publicado da APR Cremalheira, com árvore de capítulos, subtópicos, edição por tags, formatação e revisão individual.
+- Modelos independentes por módulo, tags escalares e de blocos (tabelas, desenhos, fotos, cálculos), prévia vinculada, edição de estrutura, salvamento como padrão local e inclusão dos modelos no JSON.
+- Validação funcional e visual do editor, paginação e relatórios ainda pendente. Não equivale à totalidade dos recursos da APR.
