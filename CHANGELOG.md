@@ -19,3 +19,8 @@
 - Referência: código publicado da APR Cremalheira, com árvore de capítulos, subtópicos, edição por tags, formatação e revisão individual.
 - Modelos independentes por módulo, tags escalares e de blocos (tabelas, desenhos, fotos, cálculos), prévia vinculada, edição de estrutura, salvamento como padrão local e inclusão dos modelos no JSON.
 - Validação funcional e visual do editor, paginação e relatórios ainda pendente. Não equivale à totalidade dos recursos da APR.
+
+## REV 04 — 27/11/2026
+- Três documentos independentes: memorial, caderno técnico e relatório de ensaio. Cadastro comum, metadados e modelos próprios.
+- Conteúdo técnico reestruturado; preservados editor por tags, layout e cálculo/critério de resultados existentes.
+- 14/14 testes isolados aprovados. Modelos antigos personalizados preservados; novos textos via restauração explícita após backup. Validação de navegador, impressão e engenharia pendente.
