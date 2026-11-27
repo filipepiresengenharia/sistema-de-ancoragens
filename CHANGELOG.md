@@ -24,3 +24,6 @@
 - Três documentos independentes: memorial, caderno técnico e relatório de ensaio. Cadastro comum, metadados e modelos próprios.
 - Conteúdo técnico reestruturado; preservados editor por tags, layout e cálculo/critério de resultados existentes.
 - 14/14 testes isolados aprovados. Modelos antigos personalizados preservados; novos textos via restauração explícita após backup. Validação de navegador, impressão e engenharia pendente.
+
+## REV 05 — 27/11/2026
+Por correção do usuário, caderno técnico e relatório de ensaio são o mesmo documento. Dois módulos ativos independentes: memorial de cálculo e caderno técnico — relatório de ensaio de carga. Detalhes de instalação e desenhos no modelo inicial do memorial; modelo de ensaio mantém resultados, fotos e editor por tags. Modelos/metadados da antiga aba técnica REV 04 são preservados no JSON, sem terceira aba. Avisos fixos removidos do corpo e da capa; aviso de conferência fica na interface, não impresso. PDF ainda é de conferência, não emissão tecnicamente validada. 12/12 verificações isoladas aprovadas. Commit código 1b0e74950ad5c95fb0747820c10b9df9c595e7b3. Teste visual, validação de engenharia e anexação PDF continuam pendentes.
